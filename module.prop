@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.1
-versionCode=11
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=ADU
+name=ADU
+version=v1.0
+versionCode=1
+author=cyanisblu3
+description=ADU Ad Block Updated
+updateJson=https://raw.githubusercontent.com/cyanisblu3/ADU/master/update.json
